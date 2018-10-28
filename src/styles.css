@@ -1,1 +1,4 @@
 /* You can add global styles to this file, and also import other style files */
+.uploadcare--widget__button_type_open{
+  background-color: red;
+}
